@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AuthFirebase</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="post_hint">Post Title</string>
+    <string name="post_desc">Post Description</string>
+    <string name="submit">Submit</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+</resources>
